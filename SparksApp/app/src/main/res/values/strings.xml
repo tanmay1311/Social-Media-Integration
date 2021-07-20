@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SparksApp</string>
+    <string name="default_id" />
+    <string name="web_client_id" />
+    <string name="facebook_app_id">1021104635094106</string>
+    <string name="fb_login_protocol_scheme">fb1021104635094106</string>
+
+</resources>
